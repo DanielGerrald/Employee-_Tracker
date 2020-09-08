@@ -24,6 +24,7 @@
   ## Tests
   
 [![Employee Tracker](./images/gif.gif)](https://drive.google.com/file/d/1DcTdRUEVtW8sYXVl_MqpAH7cFllHS-QD/view "Employee Tracker")
+
 Click image for full video example.
 
   ## Questions
